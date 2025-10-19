@@ -1,0 +1,7 @@
+{
+  "name": "AI Karaoke Studio",
+  "description": "Create your own karaoke experience! Upload a song, use AI to find the lyrics, and generate a unique, AI-powered background for your performance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
